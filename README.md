@@ -2,7 +2,7 @@
 ## STEPS: 1. insert  2. dequeue
 
 ## INSERT:
-  ### 1.1  if LN(k) + LN(k+1) = LN(k+2)
+  ## 1.1  if LN(k) + LN(k+1) = LN(k+2)
         #### reheap (k, k+2)
   #### 2.1  else 
           #### if k == 1
